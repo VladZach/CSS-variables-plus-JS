@@ -6,7 +6,7 @@
 
 img {
   padding: var(--spacing);
-  background: var(--blur);
+  background: var(--base);
   filter: blur(var(--blur));
   width: 400px;
   height: 300px
